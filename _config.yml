@@ -14,8 +14,8 @@ author: Berenice Dethier
 navbar-links:
   About Me: "aboutme"
   Projects:
-    - Natality Project: "natality"
-    - Ion Channel Project: "ionchannel"
+    - Natality Project: "https://github.com/berenice-d/Natality-project"
+    - Ion Channel Project: "https://github.com/berenice-d/Ion-channels"
     - Pneumonia detection from X-rays: "xray"
 #    - ODOC: "odoc" 
 #   - Hack the Bay: "hackbay"
