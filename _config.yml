@@ -13,16 +13,19 @@ author: Berenice Dethier
 
 navbar-links:
   About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+  Projects:
+    - Natality Project: "natality"
+    - Ion Channel Project: "ionchannel"
+    - Pneumonia detection from X-rays: "xray"
+#    - ODOC: "odoc" 
+#   - Hack the Bay: "hackbay"
+#  Author's home: "https://deanattali.com"
 
 # --- Logo --- #
 
 # Image to show in the navigation bar - works best with a square image
 # Remove this parameter if you don't want an image in the navbar
-avatar: "/assets/img/avatar-icon.png"
+avatar: "/assets/img/logo.jpg"
 
 # By default, the image is cut into a circle. You can disable this behaviour by setting 'round-avatar: false'
 round-avatar: true
@@ -40,11 +43,11 @@ round-avatar: true
 social-network-links:
   email: "berenice.dethier@gmail.com"
 # facebook: yourname
-  github: bd3thier
+  github: berenice-d
 #  twitter: daattali
   rss: true
 #  reddit: yourname
-  linkedin: berenice-dethier-phd-9b167491
+  linkedin: berenice-dethier
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
