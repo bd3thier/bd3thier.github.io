@@ -1,9 +1,10 @@
 ---
 layout: post
-title: Sharing code on GitHub: RStudio vs. Jupyter Notebooks
+title: Sharing code on GitHub - RStudio vs. Jupyter Notebooks
 subtitle: User-, reader-, and collaborator-friendliness
 cover-img: /assets/img/mimi-thian-vdXMSiX-n6M-unsplash.jpg
 tags: [RStudio, Jupyter, Python, R, GitHub, Portfolio, Data Science]
+comments: true
 ---
 
 Cover image by [Mimi Thian](https://unsplash.com/@mimithian?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/share?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText)
