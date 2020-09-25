@@ -16,8 +16,9 @@ Times and times again, you've heard it: a good portfolio is what will get you th
 
 Files with extension .ipynb can be uploaded directly to GitHub repositories. The output of the cells as well as their statuses will be the exact same as in the notebook when you saved it. 
 
-On GitHub, the rendering will be exactly as in your Notebook (without interactivity, duh!) So convenient and easy! It also means that you need to run your entire notebook at once for clean outputs, and that can be tricky for code that needs hours to execute. The files can also get large depending on the amount of visuals in the doc, and 
+On GitHub, the rendering will be exactly as in your Notebook (without interactivity, duh!) So convenient and easy! It also means that you need to run your entire notebook at once for clean outputs, and that can be tricky for code that needs hours to execute. The files can also get large depending on the amount of visuals in the doc.
 
+![Download](assets/img/ipynb-download.png)
 To be able to run cells, a collaborator would have to follow the following steps:
 * Download the raw file and save with the extension .ipynb 
 * Open Jupyter Notebook, then go to the location where the .ipynb file was saved
